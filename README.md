@@ -8,6 +8,16 @@
 > I design and ship reliable **data pipelines**, migrate **legacy ETL** to modern stacks and automate repetitive tasks with **Python**.
 
 ---
+## 📊 Estatísticas do GitHub
+
+Acompanhe minhas contribuições:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrobks23&show_icons=true&theme=gruvbox)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrobks23&layout=compact&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrobks23&theme=gruvbox)
+
+---
+-
 
 ## 🚀 O que faço
 
@@ -98,16 +108,6 @@
 - SQL — TestDome (Top 10%).
 - Banco de Dados e SQL (Udemy, 58 h).
 - Trilha de Banco de Dados (Fundação Bradesco, 38 h).
-
----
-
-## 📊 Estatísticas do GitHub
-
-Acompanhe minhas contribuições:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrobks23&show_icons=true&theme=gruvbox)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrobks23&layout=compact&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrobks23&theme=gruvbox)
 
 ---
 
